@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P2KbhgXh3nGCryPqrStP0iJrcUGYBC4eciRpecLa0/eG2j4++I2sjy0fJw2YO2Hg3gN0OT3/xVodvNH1IfMHaA==",
+  "success": true,
+  "projectFilePath": "D:\\Stage final\\MFPE\\PaymentService\\PaymentService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdul rahman\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
